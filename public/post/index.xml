@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Anthony Cook</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Anthony Cook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scaling SQL Pagnation To Millions Of Rows</title>
+      <link>http://example.org/post/scaling_sql_pagination/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/scaling_sql_pagination/</guid>
+      <description>The Problem Pagination with SQL databases is a comma gotcha&amp;rsquo; for new developers. If you look online you&amp;rsquo;ll be sure to find countless tutorials that tell you to use good old-fashioned OFFSET and LIMIT.
+The issue with this method is that it doesn&amp;rsquo;t scale, sure it&amp;rsquo;s fine for tables with a few rows but as your data grows your quires will get slower&amp;hellip;and slower until they eventually get to the point where they just timeout.</description>
+    </item>
+    
+    <item>
+      <title>Headless commerce and why it rocks</title>
+      <link>http://example.org/post/headless_commerce_and_why_it_rocks/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/headless_commerce_and_why_it_rocks/</guid>
+      <description>Headless is the next big step in the ecommerce world, it essentially allows you to build your public facing storefronts independently of your ecommerce platform and backend.
+This comes with huge benefits including performance, customisation and scalability. There&amp;rsquo;s a lot of reasons why big brands are flocking towards the headless paradigm, so let&amp;rsquo;s discuss some of those now.
+Complete Control Of URL&amp;rsquo;s On most ecom platforms you have to conform to their URL structure and categorisation.</description>
+    </item>
+    
+  </channel>
+</rss>
