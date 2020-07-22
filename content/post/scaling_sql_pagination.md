@@ -13,7 +13,7 @@ Pagination with SQL databases is a comma gotcha' for new developers. If you look
 
 The issue with this method is that it doesn't scale, sure it's fine for tables with a few rows but as your data grows your quires will get slower...and slower until they eventually get to the point where they just timeout.
 
-The reason being is that each time this type of query runs, it needs to cycle though every single row until if finds the desired result set.
+The reason being is that each time this type of query runs, it needs to cycle though every single row until it finds the desired result set.
 
 Here's a quick example:
 
