@@ -8,6 +8,7 @@ authors:
 
 ---
 
+s
 
 Headless is the next big step in the ecommerce world, it essentially  allows you to build your public facing storefronts independently of your ecommerce platform and backend.
 
@@ -19,7 +20,7 @@ On most ecom platforms you have to conform to their URL structure and categorisa
 
 Let's look at what an ideal URL structure would be for a mens t-shirt with a picture of a pineapple on it:
 
-    /mens/t-shirts/pineapple-shirt
+```/mens/t-shirts/pineapple-shirt```
 
 We cloud even go deeper, like so:
 
@@ -29,7 +30,7 @@ This is great for SEO and clearly shows what your looking at, both to people and
 
 The issue is that on a lot of eCom platforms, this would simply not be possible. Using Shopify as an example again, the nearest we can get achieve to this ideal structure is:
 
-       /collections/mens/products/pineapple-shirt
+```/collections/mens/products/pineapple-shirt```
 
 Not great right? Not only do we have the words *collections* and *products* tucked in every URL, we also can't nest more than one category deep, yikes!
 
