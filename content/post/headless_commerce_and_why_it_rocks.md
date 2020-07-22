@@ -24,7 +24,7 @@ Let's look at what an ideal URL structure would be for a mens t-shirt with a pic
 
 We cloud even go deeper, like so:
 
-    /mens/t-shirts/blue/large/pineapple-shirt
+```/mens/t-shirts/blue/large/pineapple-shirt```
 
 This is great for SEO and clearly shows what your looking at, both to people and machines alike. 
 
