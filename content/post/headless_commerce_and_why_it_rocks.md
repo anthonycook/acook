@@ -8,7 +8,7 @@ authors:
 
 ---
 
-s
+
 
 Headless is the next big step in the ecommerce world, it essentially  allows you to build your public facing storefronts independently of your ecommerce platform and backend.
 
